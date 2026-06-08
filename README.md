@@ -64,10 +64,7 @@ A web-based application developed using Python and Flask to help users digitally
 ## Future Enhancements
 
 * Cloud Storage Integration
-* Mobile Application Support
-* Advanced AI-Based Document Understanding
 * Warranty Renewal Suggestions
-* Analytics Dashboard
 
 ## Author
 
