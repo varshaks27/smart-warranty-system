@@ -60,7 +60,21 @@ A web-based application developed using Python and Flask to help users digitally
 
 <img width="673" height="606" alt="image" src="https://github.com/user-attachments/assets/f2f46d9f-1b78-4796-943b-6b4feb983762" />
 
+## Project Highlights
 
+- Developed a full-stack web application using Python and Flask.
+- Integrated Google Gemini 1.5 Flash for AI-powered invoice data extraction.
+- Implemented QR code generation for quick product identification.
+- Automated warranty expiry tracking with email reminder notifications.
+- Built secure user authentication and complete CRUD functionality.
+
+## Learning Outcomes
+
+- Gained hands-on experience in full-stack web development using Flask.
+- Integrated Generative AI with Google Gemini 1.5 Flash.
+- Implemented database operations using SQLite.
+- Improved understanding of authentication, file handling, and RESTful application design.
+- 
 ## Future Enhancements
 
 * Cloud Storage Integration
