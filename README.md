@@ -1,36 +1,56 @@
 # Smart Warranty Management System
 
-A web-based application developed using Python and Flask to help users digitally manage product warranties. The system allows users to upload bills, track warranty periods, generate QR codes for quick access, and receive automated email reminders before warranty expiration.
+**A web-based application that helps users digitally manage product warranties — from bill upload to automated expiry reminders.**
 
-## Features
+![Python](https://img.shields.io/badge/Python-Backend-blue)
+![Flask](https://img.shields.io/badge/Flask-Framework-black)
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-1.5%20Flash-orange)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-* User Registration and Login
-* Product Bill Upload
-* AI-Assisted Data Extraction
-* Automatic Warranty Expiry Calculation
-* QR Code Generation
-* Product Dashboard
-* Warranty Status Tracking
-* Email Reminder Notifications
-* Product Edit and Delete Functionality
+---
 
-## Technologies Used
+## Overview
 
-* Python
-* Flask
-* SQLite
-* HTML
-* CSS
-* JavaScript
+Keeping track of product warranties is a common but often overlooked problem — bills get lost, expiry dates are forgotten, and users miss the window to claim repairs or replacements. The **Smart Warranty Management System** solves this by giving users a single dashboard to upload bills, automatically extract product details using AI, track warranty status, and receive timely email reminders before expiration.
+
+---
+
+## Key Features
+
+- **User Registration & Login** — Secure authentication for individual user accounts.
+- **Product Bill Upload** — Upload scanned or photographed bills directly through the dashboard.
+- **AI-Assisted Data Extraction** — Uses Google Gemini 1.5 Flash to automatically extract product details from invoices.
+- **Automatic Warranty Expiry Calculation** — Computes expiry dates based on extracted purchase data.
+- **QR Code Generation** — Generates a unique QR code per product for quick lookup and identification.
+- **Product Dashboard** — Centralized view of all registered products and their warranty status.
+- **Warranty Status Tracking** — Visual indicators for active, expiring, and expired warranties.
+- **Email Reminder Notifications** — Automated alerts sent ahead of warranty expiration.
+- **Product Edit & Delete** — Full CRUD functionality for managing saved products.
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Backend | Python, Flask |
+| Database | SQLite |
+| Frontend | HTML, CSS, JavaScript |
+| AI Integration | Google Gemini 1.5 Flash |
+
+---
 
 ## Project Workflow
 
 1. User uploads a product bill.
-2. The system extracts product information from the bill.
+2. The system extracts product information from the bill using AI.
 3. Warranty expiry date is calculated automatically.
-4. A unique QR code is generated for each product.
+4. A unique QR code is generated for the product.
 5. Product details are stored securely in the database.
-6. Users can view and manage warranties through the dashboard.
+6. Users view and manage warranties through the dashboard.
 7. Reminder emails are sent before warranty expiration.
 
 ## Screenshots
@@ -60,30 +80,34 @@ A web-based application developed using Python and Flask to help users digitally
 
 <img width="673" height="606" alt="image" src="https://github.com/user-attachments/assets/f2f46d9f-1b78-4796-943b-6b4feb983762" />
 
-## Project Highlights
+Project Highlights
 
 - Developed a full-stack web application using Python and Flask.
 - Integrated Google Gemini 1.5 Flash for AI-powered invoice data extraction.
 - Implemented QR code generation for quick product identification.
 - Automated warranty expiry tracking with email reminder notifications.
-- Built secure user authentication and complete CRUD functionality.
+- Built secure user authentication with complete CRUD functionality.
+
+---
 
 ## Learning Outcomes
 
 - Gained hands-on experience in full-stack web development using Flask.
-- Integrated Generative AI with Google Gemini 1.5 Flash.
+- Integrated Generative AI (Google Gemini 1.5 Flash) into a production workflow.
 - Implemented database operations using SQLite.
-- Improved understanding of authentication, file handling, and RESTful application design.
-- 
+- Strengthened understanding of authentication, file handling, and RESTful application design.
+
+---
+
 ## Future Enhancements
 
-* Cloud Storage Integration
-* Warranty Renewal Suggestions
+- **Cloud Storage Integration** — Store uploaded bills and QR codes on cloud storage instead of locally.
+- **Warranty Renewal Suggestions** — Recommend renewal or extended warranty options as expiry approaches.
+
+---
 
 ## Author
 
-Varsha Santhosh
-
+**Varsha Santhosh**
 B.Tech Computer Science Engineering
-
 Mangalam College of Engineering
