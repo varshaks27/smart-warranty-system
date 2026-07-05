@@ -53,9 +53,9 @@ Keeping track of product warranties is a common but often overlooked problem —
 6. Users view and manage warranties through the dashboard.
 7. Reminder emails are sent before warranty expiration.
 
-## Live Demo
+## 🚀 Live Demo
 
-🌐 beamish-gecko-0ed0d8.netlify.app
+🌐 https://beamish-gecko-0ed0d8.netlify.app
 
 
 ## Screenshots
