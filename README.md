@@ -53,6 +53,11 @@ Keeping track of product warranties is a common but often overlooked problem —
 6. Users view and manage warranties through the dashboard.
 7. Reminder emails are sent before warranty expiration.
 
+## Live Demo
+
+🌐 beamish-gecko-0ed0d8.netlify.app
+
+
 ## Screenshots
 
 <img width="734" height="744" alt="image" src="https://github.com/user-attachments/assets/9bd214c1-c2bb-4b25-aafa-55488f59ac06" />
@@ -97,9 +102,6 @@ Project Highlights
 - Implemented database operations using SQLite.
 - Strengthened understanding of authentication, file handling, and RESTful application design.
 
-## Live Demo
-
-🌐 https://warrenty.onrender.com
 
 ## Future Enhancements
 
