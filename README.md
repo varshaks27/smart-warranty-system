@@ -112,6 +112,6 @@ Project Highlights
 
 ## Author
 
-**Varsha Santhosh**
+**Varsha KS**
 B.Tech Computer Science Engineering
 Mangalam College of Engineering
